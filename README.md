@@ -20,6 +20,6 @@ An intelligent finance tracker that automatically categorizes transactions, dete
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/ai-finance-tracker.git
-cd ai-finance-tracker
+git clone https://github.com/Rishikeshoza11/Ai-Finance-Tracker.git
+cd Ai-Finance-Tracker
 pip install -r requirements.txt
