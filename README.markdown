@@ -75,5 +75,4 @@ MIT License - See [LICENSE](LICENSE) for details.
 
 ## Contact
 - GitHub: [Rishikeshoza11](https://github.com/Rishikeshoza11)
-- Email: [your-email@example.com]
-- LinkedIn: [your-linkedin-profile]
+- Email: rishikeshoza77@gmail.com
