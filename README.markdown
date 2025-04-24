@@ -62,6 +62,8 @@ Follow these steps to set up the project on your local machine.
 ### Anomaly Detection and Spending Clusters
 ![Anomaly Detection and Clusters](https://github.com/Rishikeshoza11/Ai-Finance-Tracker/blob/85eb066ac09c0e0b221e528503621676ae05fe98/screenshot4.png)  
 *See suspicious transactions and spending patterns visualized with KMeans clustering.*
+![Manage Categories](https://github.com/Rishikeshoza11/Ai-Finance-Tracker/blob/543a0b461de97cd3bc17431f75e1cc1797ea20a5/screenshot5.png)
+*Manage The categories
 
 ## Project Structure
 - `app.py`: Main Streamlit application code.
