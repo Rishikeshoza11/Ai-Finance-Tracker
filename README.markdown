@@ -53,7 +53,7 @@ Follow these steps to set up the project on your local machine.
 
 ### Dashboard Overview
 ![Dashboard Overview](https://github.com/Rishikeshoza11/Ai-Finance-Tracker/blob/ca7215fec395d5ca00136fa6a687bad374959bbc/Screenshot1.png) 
-![Dashboard Overview](https://github.com/Rishikeshoza11/Ai-Finance-Tracker/blob/ca7215fec395d5ca00136fa6a687bad374959bbc/Screenshot1.png) 
+![Expense Breakdown](https://github.com/Rishikeshoza11/Ai-Finance-Tracker/blob/7346001e4818f9713137f4b87937536a81e8d593/Screenshot2.png) 
 ![Dashboard Overview](https://github.com/Rishikeshoza11/Ai-Finance-Tracker/blob/ca7215fec395d5ca00136fa6a687bad374959bbc/Screenshot1.png) 
 
 
