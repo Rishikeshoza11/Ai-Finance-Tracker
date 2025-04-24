@@ -53,11 +53,14 @@ Follow these steps to set up the project on your local machine.
 
 ### Dashboard Overview
 ![Dashboard Overview](https://github.com/Rishikeshoza11/Ai-Finance-Tracker/blob/ca7215fec395d5ca00136fa6a687bad374959bbc/Screenshot1.png) 
+![Dashboard Overview](https://github.com/Rishikeshoza11/Ai-Finance-Tracker/blob/ca7215fec395d5ca00136fa6a687bad374959bbc/Screenshot1.png) 
+![Dashboard Overview](https://github.com/Rishikeshoza11/Ai-Finance-Tracker/blob/ca7215fec395d5ca00136fa6a687bad374959bbc/Screenshot1.png) 
+
 
 *View total spent, received, predicted spending, and a pie chart breakdown by category.*
 
 ### Anomaly Detection and Spending Clusters
-![Anomaly Detection and Clusters](insert-anomalies-clusters-image-url-here)  
+![Anomaly Detection and Clusters](https://github.com/Rishikeshoza11/Ai-Finance-Tracker/blob/85eb066ac09c0e0b221e528503621676ae05fe98/screenshot4.png)  
 *See suspicious transactions and spending patterns visualized with KMeans clustering.*
 
 ## Project Structure
