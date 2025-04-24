@@ -27,19 +27,16 @@ Follow these steps to set up the project on your local machine.
    ```bash
    git clone https://github.com/Rishikeshoza11/Ai-Finance-Tracker.git
    ```
-   ![Cloning the repository](insert-clone-image-url-here)
 
 2. **Navigate to the project directory**  
    ```bash
    cd Ai-Finance-Tracker
    ```
-   ![Navigating to the project directory](insert-cd-image-url-here)
 
 3. **Install the required dependencies**  
    ```bash
    pip install -r requirements.txt
    ```
-   ![Installing dependencies](insert-pip-install-image-url-here)
 
 4. **Run the Streamlit app**  
    ```bash
@@ -55,7 +52,8 @@ Follow these steps to set up the project on your local machine.
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](insert-dashboard-image-url-here)  
+![Dashboard Overview](https://github.com/Rishikeshoza11/Ai-Finance-Tracker/blob/ca7215fec395d5ca00136fa6a687bad374959bbc/Screenshot1.png) 
+
 *View total spent, received, predicted spending, and a pie chart breakdown by category.*
 
 ### Anomaly Detection and Spending Clusters
